@@ -4,7 +4,7 @@
 ***B.Tech in Data Science & Engineering, MIT Manipal***
 
 ### Base Paper
-***B. Wang, J. Zhang, J. Dai, and J. Sheng, "Influential nodes identification using network local structural properties"***
+***B. Wang, J. Zhang, J. Dai, and J. Sheng, "Influential nodes identification using network local structural properties"*** [(link)](https://www.nature.com/articles/s41598-022-05564-6)
 
 ---
 
